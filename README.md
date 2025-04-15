@@ -19,7 +19,6 @@ Desenvolver um catálogo de produtos com operações CRUD, suportando múltiplos
 - **gRPC** com gRPC Python
 - Validação com JSON Schema e XSD
 - Dados persistentes em ficheiros JSON
-- Contêineres Docker orquestrados com Docker Compose
 
 ### 💻 Cliente:
 - Python (linha de comandos)
