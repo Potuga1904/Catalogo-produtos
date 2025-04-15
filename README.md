@@ -28,10 +28,8 @@ Desenvolver um catálogo de produtos com operações CRUD, suportando múltiplos
 
 ## 📁 Estrutura do Projeto
 
-atalogo-produtos/ ├── servidor/ │ ├── rest/ │ ├── soap/ │ ├── graphql/ │ ├── grpc/ │ └── dados/ # produtos.json ├── cliente/ # cliente Python ├── documentacao/ │ ├── schemas/ # JSON Schema / XSD │
+catalogo-produtos/ ├── servidor/ │ ├── rest/ │ ├── soap/ │ ├── graphql/ │ ├── grpc/ │ └── dados/ # produtos.json ├── cliente/ # cliente Python ├── documentacao/ │ ├── schemas/ # JSON Schema / XSD │
 
-Executar os serviços
-docker compose up --build
 
 4. Aceder aos serviços
 REST	http://localhost:5000/produtos
